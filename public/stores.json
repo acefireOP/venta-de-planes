@@ -1,0 +1,27 @@
+{
+  "COMUNA": "LAS CONDES",
+  "DIAS_VISITA": "LU - MA - MI - JU - VI",
+  "CODIGO_POSTAL": "7550000",
+  "CON_DESPACHO": true,
+  "DIAS_DESPACHO": "3",
+  "ELOCKERS": [
+    {
+      "NOMBRE": "Sucursal Apumanque",
+      "DIRECCION": "Apoquindo 6085",
+      "HORARIO": "10:00 a 19:00 hrs",
+      "ESTADO": "ABIERTA"
+    },
+    {
+      "NOMBRE": "Sucursal Las Condes 01",
+      "DIRECCION": "Gilberto Fuenzalida 39",
+      "HORARIO": "09:00 a 17:00 hrs",
+      "ESTADO": "ABIERTA"
+    },
+    {
+      "NOMBRE": "Sucursal Mall Plaza los Dominicos",
+      "DIRECCION": "Avenida Padre Hurtado Sur Nº 785, BS – 1456 / BS - 1460",
+      "HORARIO": "10:00 a 18:00 hrs",
+      "ESTADO": "CERRADA"
+    }
+  ]
+}

@@ -1,0 +1,1697 @@
+{
+   "MATRIZ": [{
+         "REGION": "I - REGION DE TARAPACA",
+         "COMUNA": "ALTO HOSPICIO",
+         "DIAS DE VISITA": "LU - MI",
+         "Codigo postal": "1130000",
+         "dias": "4"
+      },
+      {
+         "REGION": "I - REGION DE TARAPACA",
+         "COMUNA": "IQUIQUE",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "1100000",
+         "dias": "2"
+      },
+      {
+         "REGION": "I - REGION DE TARAPACA",
+         "COMUNA": "POZO ALMONTE",
+         "DIAS DE VISITA": "MI",
+         "Codigo postal": "1180000",
+         "dias": "4"
+      },
+      {
+         "REGION": "II - REGION DE ANTOFAGASTA",
+         "COMUNA": "ANTOFAGASTA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "1240000",
+         "dias": "2"
+      },
+      {
+         "REGION": "II - REGION DE ANTOFAGASTA",
+         "COMUNA": "CALAMA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "1390000",
+         "dias": "2"
+      },
+      {
+         "REGION": "II - REGION DE ANTOFAGASTA",
+         "COMUNA": "SAN PEDRO DE ATACAMA",
+         "DIAS DE VISITA": "LU - JU",
+         "Codigo postal": "1410000",
+         "dias": "4"
+      },
+      {
+         "REGION": "II - REGION DE ANTOFAGASTA",
+         "COMUNA": "TOCOPILLA",
+         "DIAS DE VISITA": "MA - VI",
+         "Codigo postal": "1340000",
+         "dias": "4"
+      },
+      {
+         "REGION": "III - REGION DE ATACAMA",
+         "COMUNA": "ALTO DEL CARMEN",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "1650000",
+         "dias": "2"
+      },
+      {
+         "REGION": "III - REGION DE ATACAMA",
+         "COMUNA": "CALDERA",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "1570000",
+         "dias": "4"
+      },
+      {
+         "REGION": "III - REGION DE ATACAMA",
+         "COMUNA": "CHAÑARAL",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "1490000",
+         "dias": "4"
+      },
+      {
+         "REGION": "III - REGION DE ATACAMA",
+         "COMUNA": "COPIAPO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "1530000",
+         "dias": "2"
+      },
+      {
+         "REGION": "III - REGION DE ATACAMA",
+         "COMUNA": "DIEGO DE ALMAGRO",
+         "DIAS DE VISITA": "LU - MI",
+         "Codigo postal": "1500000",
+         "dias": "4"
+      },
+      {
+         "REGION": "III - REGION DE ATACAMA",
+         "COMUNA": "FREIRINA",
+         "DIAS DE VISITA": "MA - MI - JU - VI",
+         "Codigo postal": "1630000",
+         "dias": "2"
+      },
+      {
+         "REGION": "III - REGION DE ATACAMA",
+         "COMUNA": "HUASCO",
+         "DIAS DE VISITA": "MA - MI - JU - VI",
+         "Codigo postal": "1640000",
+         "dias": "2"
+      },
+      {
+         "REGION": "III - REGION DE ATACAMA",
+         "COMUNA": "TIERRA AMARILLA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "1580000",
+         "dias": "2"
+      },
+      {
+         "REGION": "III - REGION DE ATACAMA",
+         "COMUNA": "VALLENAR",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "1610000",
+         "dias": "2"
+      },
+      {
+         "REGION": "IV - REGION DE COQUIMBO",
+         "COMUNA": "COMBARBALA",
+         "DIAS DE VISITA": "LU - VI",
+         "Codigo postal": "1890000",
+         "dias": "4"
+      },
+      {
+         "REGION": "IV - REGION DE COQUIMBO",
+         "COMUNA": "COQUIMBO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "1780000",
+         "dias": "2"
+      },
+      {
+         "REGION": "IV - REGION DE COQUIMBO",
+         "COMUNA": "ILLAPEL",
+         "DIAS DE VISITA": "MA - VI",
+         "Codigo postal": "1930000",
+         "dias": "4"
+      },
+      {
+         "REGION": "IV - REGION DE COQUIMBO",
+         "COMUNA": "LA SERENA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "1700000",
+         "dias": "2"
+      },
+      {
+         "REGION": "IV - REGION DE COQUIMBO",
+         "COMUNA": "LOS VILOS",
+         "DIAS DE VISITA": "MA - VI",
+         "Codigo postal": "1940000",
+         "dias": "4"
+      },
+      {
+         "REGION": "IV - REGION DE COQUIMBO",
+         "COMUNA": "MONTE PATRIA",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "1880000",
+         "dias": "3"
+      },
+      {
+         "REGION": "IV - REGION DE COQUIMBO",
+         "COMUNA": "OVALLE",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "1840000",
+         "dias": "2"
+      },
+      {
+         "REGION": "IV - REGION DE COQUIMBO",
+         "COMUNA": "PUNITAQUI",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "1900000",
+         "dias": "3"
+      },
+      {
+         "REGION": "IV - REGION DE COQUIMBO",
+         "COMUNA": "SALAMANCA",
+         "DIAS DE VISITA": "MA - VI",
+         "Codigo postal": "1950000",
+         "dias": "4"
+      },
+      {
+         "REGION": "IV - REGION DE COQUIMBO",
+         "COMUNA": "VICUÑA",
+         "DIAS DE VISITA": "JU",
+         "Codigo postal": "1760000",
+         "dias": "4"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "ALGARROBO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "2710000",
+         "dias": "2"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "CABILDO",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "2050000",
+         "dias": "4"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "CALERA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "2290000",
+         "dias": "2"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "CALLE LARGA",
+         "DIAS DE VISITA": "JU",
+         "Codigo postal": "2130000",
+         "dias": "4"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "CARTAGENA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "2680000",
+         "dias": "2"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "CASABLANCA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "2480000",
+         "dias": "2"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "CATEMU",
+         "DIAS DE VISITA": "MI",
+         "Codigo postal": "2230000",
+         "dias": "4"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "CONCON",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "2510000",
+         "dias": "2"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "EL QUISCO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "2700000",
+         "dias": "2"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "EL TABO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "2690000",
+         "dias": "2"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "HIJUELAS",
+         "DIAS DE VISITA": "MA - MI",
+         "Codigo postal": "2310000",
+         "dias": "4"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "LA CRUZ",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "2280000",
+         "dias": "3"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "LA LIGUA",
+         "DIAS DE VISITA": "MA - JU - VI",
+         "Codigo postal": "2030000",
+         "dias": "3"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "LIMACHE",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "2240000",
+         "dias": "2"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "LLAILLAY",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "2220000",
+         "dias": "2"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "LOS ANDES",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "2100000",
+         "dias": "2"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "NOGALES",
+         "DIAS DE VISITA": "MA",
+         "Codigo postal": "2300000",
+         "dias": "4"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "OLMUE",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "2330000",
+         "dias": "4"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "PANQUEHUE",
+         "DIAS DE VISITA": "JU",
+         "Codigo postal": "2210000",
+         "dias": "4"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "PAPUDO",
+         "DIAS DE VISITA": "JU",
+         "Codigo postal": "2070000",
+         "dias": "4"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "PETORCA",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "2040000",
+         "dias": "4"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "PUCHUNCAVI",
+         "DIAS DE VISITA": "JU",
+         "Codigo postal": "2500000",
+         "dias": "4"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "PUTAENDO",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "2190000",
+         "dias": "4"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "QUILLOTA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "2260000",
+         "dias": "2"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "QUILPUE",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "2430000",
+         "dias": "2"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "QUINTERO",
+         "DIAS DE VISITA": "JU",
+         "Codigo postal": "2490000",
+         "dias": "4"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "SAN ANTONIO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "2660000",
+         "dias": "2"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "SAN ESTEBAN",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "2120000",
+         "dias": "4"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "SAN FELIPE",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "2170000",
+         "dias": "2"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "SANTA MARIA DE SAN FELIPE",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "2200000",
+         "dias": "2"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "SANTO DOMINGO",
+         "DIAS DE VISITA": "MA",
+         "Codigo postal": "2720000",
+         "dias": "4"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "VALPARAISO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "2340000",
+         "dias": "2"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "VILLA ALEMANA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "6500000",
+         "dias": "2"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "VIÑA DEL MAR",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "2520000",
+         "dias": "2"
+      },
+      {
+         "REGION": "V - REGION DE VALPARAISO",
+         "COMUNA": "ZAPALLAR",
+         "DIAS DE VISITA": "JU",
+         "Codigo postal": "2060000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "CHIMBARONGO",
+         "DIAS DE VISITA": "MA",
+         "Codigo postal": "3090000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "CODEGUA",
+         "DIAS DE VISITA": "LU - VI",
+         "Codigo postal": "2900000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "COINCO",
+         "DIAS DE VISITA": "LU - JU",
+         "Codigo postal": "3010000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "COLTAUCO",
+         "DIAS DE VISITA": "LU - JU",
+         "Codigo postal": "3000000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "DOÑIHUE",
+         "DIAS DE VISITA": "LU - JU",
+         "Codigo postal": "3020000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "GRANEROS",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "2880000",
+         "dias": "2"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "LAS CABRAS",
+         "DIAS DE VISITA": "LU - JU",
+         "Codigo postal": "3030000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "MACHALI",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "2910000",
+         "dias": "2"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "MALLOA",
+         "DIAS DE VISITA": "MI",
+         "Codigo postal": "2950000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "MARCHIHUE",
+         "DIAS DE VISITA": "MI",
+         "Codigo postal": "3260000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "MOSTAZAL",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "2890000",
+         "dias": "2"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "NANCAGUA",
+         "DIAS DE VISITA": "LU",
+         "Codigo postal": "3110000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "OLIVAR",
+         "DIAS DE VISITA": "MI",
+         "Codigo postal": "2920000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "PERALILLO",
+         "DIAS DE VISITA": "VI",
+         "Codigo postal": "3170000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "PEUMO",
+         "DIAS DE VISITA": "LU - JU",
+         "Codigo postal": "2990000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "PICHIDEGUA",
+         "DIAS DE VISITA": "LU - JU",
+         "Codigo postal": "2980000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "PICHILEMU",
+         "DIAS DE VISITA": "MI",
+         "Codigo postal": "3220000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "PLACILLA",
+         "DIAS DE VISITA": "LU - VI",
+         "Codigo postal": "3100000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "QUINTA DE TILCOCO",
+         "DIAS DE VISITA": "LU - VI",
+         "Codigo postal": "2960000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "RANCAGUA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "2820000",
+         "dias": "2"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "RENGO",
+         "DIAS DE VISITA": "MA - MI",
+         "Codigo postal": "2940000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "REQUINOA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "2930000",
+         "dias": "2"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "SAN FERNANDO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "3070000",
+         "dias": "2"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "SAN VICENTE DE TAGUA TAGUA",
+         "DIAS DE VISITA": "LU - JU",
+         "Codigo postal": "2970000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VI - REGION DEL LIBERTADOR GRAL. BERNARDO O’HIGGINS",
+         "COMUNA": "SANTA CRUZ",
+         "DIAS DE VISITA": "LU - VI",
+         "Codigo postal": "3130000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "CAUQUENES",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "3690000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "CONSTITUCION",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "3560000",
+         "dias": "3"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "CURICO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "3340000",
+         "dias": "2"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "HUALAÑE",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "5860000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "LICANTEN",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "3410000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "LINARES",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "3580000",
+         "dias": "2"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "LONGAVI",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "3620000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "MAULE",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "3530000",
+         "dias": "2"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "MOLINA",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "3380000",
+         "dias": "3"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "PARRAL",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "3630000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "PELARCO",
+         "DIAS DE VISITA": "JU",
+         "Codigo postal": "3500000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "RAUCO",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "3430000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "RETIRO",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "3640000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "ROMERAL",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "3370000",
+         "dias": "3"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "SAGRADA FAMILIA",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "3390000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "SAN CLEMENTE",
+         "DIAS DE VISITA": "MA",
+         "Codigo postal": "3520000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "SAN JAVIER",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "3660000",
+         "dias": "3"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "SAN RAFAEL",
+         "DIAS DE VISITA": "JU",
+         "Codigo postal": "3490000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "TALCA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "3460000",
+         "dias": "2"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "TENO",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "3360000",
+         "dias": "3"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "VICHUQUEN",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "3420000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VII - REGION DEL MAULE",
+         "COMUNA": "VILLA ALEGRE",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "3650000",
+         "dias": "3"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "ARAUCO",
+         "DIAS DE VISITA": "MI - VI",
+         "Codigo postal": "4360000",
+         "dias": "4"
+      },
+      {
+         "REGION": "XVI - REGION ÑUBLE",
+         "COMUNA": "BULNES",
+         "DIAS DE VISITA": "LU",
+         "Codigo postal": "3930000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "CABRERO",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "4470000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "CAÑETE",
+         "DIAS DE VISITA": "MA - VI",
+         "Codigo postal": "4390000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "CHIGUAYANTE",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "4100000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XVI - REGION ÑUBLE",
+         "COMUNA": "CHILLAN",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "3780000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XVI - REGION ÑUBLE",
+         "COMUNA": "CHILLAN VIEJO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "3820000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XVI - REGION ÑUBLE",
+         "COMUNA": "COIHUECO",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "3870000",
+         "dias": "3"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "CONCEPCION",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "4030000",
+         "dias": "2"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "CORONEL",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "4190000",
+         "dias": "3"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "CURANILAHUE",
+         "DIAS DE VISITA": "MI - VI",
+         "Codigo postal": "4370000",
+         "dias": "4"
+      },
+      {
+         "REGION": "XVI - REGION ÑUBLE",
+         "COMUNA": "EL CARMEN",
+         "DIAS DE VISITA": "VI",
+         "Codigo postal": "3900000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "HUALPEN",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "4600000",
+         "dias": "2"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "HUALQUI",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "4180000",
+         "dias": "2"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "LAJA",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "4560000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "LEBU",
+         "DIAS DE VISITA": "MA - VI",
+         "Codigo postal": "4350000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "LOS ALAMOS",
+         "DIAS DE VISITA": "MA",
+         "Codigo postal": "4380000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "LOS ANGELES",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "4440000",
+         "dias": "2"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "LOTA",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "4210000",
+         "dias": "3"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "MULCHEN",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "4530000",
+         "dias": "3"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "NACIMIENTO",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "4550000",
+         "dias": "3"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "NEGRETE",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "4540000",
+         "dias": "3"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "PENCO",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "4150000",
+         "dias": "4"
+      },
+      {
+         "REGION": "XVI - REGION ÑUBLE",
+         "COMUNA": "PINTO",
+         "DIAS DE VISITA": "JU",
+         "Codigo postal": "3880000",
+         "dias": "4"
+      },
+      {
+         "REGION": "XVI - REGION ÑUBLE",
+         "COMUNA": "PORTEZUELO",
+         "DIAS DE VISITA": "MI",
+         "Codigo postal": "3960000",
+         "dias": "4"
+      },
+      {
+         "REGION": "XVI - REGION ÑUBLE",
+         "COMUNA": "QUIRIHUE",
+         "DIAS DE VISITA": "MI",
+         "Codigo postal": "4000000",
+         "dias": "4"
+      },
+      {
+         "REGION": "XVI - REGION ÑUBLE",
+         "COMUNA": "SAN CARLOS",
+         "DIAS DE VISITA": "LU - MA - MI",
+         "Codigo postal": "3840000",
+         "dias": "3"
+      },
+      {
+         "REGION": "XVI - REGION ÑUBLE",
+         "COMUNA": "SAN IGNACIO",
+         "DIAS DE VISITA": "VI",
+         "Codigo postal": "3890000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "SAN PEDRO DE LA PAZ",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "4130000",
+         "dias": "3"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "SAN ROSENDO",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "4570000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "SANTA BARBARA",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "4510000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "SANTA JUANA",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "4230000",
+         "dias": "4"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "TALCAHUANO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "4260000",
+         "dias": "2"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "TOME",
+         "DIAS DE VISITA": "MA - MI - JU",
+         "Codigo postal": "4160000",
+         "dias": "3"
+      },
+      {
+         "REGION": "VIII - REGION DEL BIOBIO",
+         "COMUNA": "YUMBEL",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "4580000",
+         "dias": "4"
+      },
+      {
+         "REGION": "XVI - REGION ÑUBLE",
+         "COMUNA": "YUNGAY",
+         "DIAS DE VISITA": "VI",
+         "Codigo postal": "3920000",
+         "dias": "4"
+      },
+      {
+         "REGION": "IX - REGION DE LA ARAUCANIA",
+         "COMUNA": "ANGOL",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "4650000",
+         "dias": "3"
+      },
+      {
+         "REGION": "IX - REGION DE LA ARAUCANIA",
+         "COMUNA": "CARAHUE",
+         "DIAS DE VISITA": "MA",
+         "Codigo postal": "5010000",
+         "dias": "4"
+      },
+      {
+         "REGION": "IX - REGION DE LA ARAUCANIA",
+         "COMUNA": "COLLIPULLI",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "4680000",
+         "dias": "3"
+      },
+      {
+         "REGION": "IX - REGION DE LA ARAUCANIA",
+         "COMUNA": "CURACAUTIN",
+         "DIAS DE VISITA": "JU",
+         "Codigo postal": "4700000",
+         "dias": "4"
+      },
+      {
+         "REGION": "IX - REGION DE LA ARAUCANIA",
+         "COMUNA": "FREIRE",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "4940000",
+         "dias": "3"
+      },
+      {
+         "REGION": "IX - REGION DE LA ARAUCANIA",
+         "COMUNA": "GALVARINO",
+         "DIAS DE VISITA": "LU - JU",
+         "Codigo postal": "5030000",
+         "dias": "4"
+      },
+      {
+         "REGION": "IX - REGION DE LA ARAUCANIA",
+         "COMUNA": "GORBEA",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "4960000",
+         "dias": "3"
+      },
+      {
+         "REGION": "IX - REGION DE LA ARAUCANIA",
+         "COMUNA": "LAUTARO",
+         "DIAS DE VISITA": "LU - JU",
+         "Codigo postal": "4860000",
+         "dias": "4"
+      },
+      {
+         "REGION": "IX - REGION DE LA ARAUCANIA",
+         "COMUNA": "LONCOCHE",
+         "DIAS DE VISITA": "JU",
+         "Codigo postal": "4970000",
+         "dias": "4"
+      },
+      {
+         "REGION": "IX - REGION DE LA ARAUCANIA",
+         "COMUNA": "NUEVA IMPERIAL",
+         "DIAS DE VISITA": "MA",
+         "Codigo postal": "5020000",
+         "dias": "4"
+      },
+      {
+         "REGION": "IX - REGION DE LA ARAUCANIA",
+         "COMUNA": "PADRE LAS CASAS",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "4850000",
+         "dias": "2"
+      },
+      {
+         "REGION": "IX - REGION DE LA ARAUCANIA",
+         "COMUNA": "PITRUFQUEN",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "4950000",
+         "dias": "3"
+      },
+      {
+         "REGION": "IX - REGION DE LA ARAUCANIA",
+         "COMUNA": "PUCON",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "4920000",
+         "dias": "3"
+      },
+      {
+         "REGION": "IX - REGION DE LA ARAUCANIA",
+         "COMUNA": "RENAICO",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "4670000",
+         "dias": "3"
+      },
+      {
+         "REGION": "IX - REGION DE LA ARAUCANIA",
+         "COMUNA": "TEMUCO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "4780000",
+         "dias": "2"
+      },
+      {
+         "REGION": "IX - REGION DE LA ARAUCANIA",
+         "COMUNA": "TRAIGUEN",
+         "DIAS DE VISITA": "LU - JU",
+         "Codigo postal": "4730000",
+         "dias": "4"
+      },
+      {
+         "REGION": "IX - REGION DE LA ARAUCANIA",
+         "COMUNA": "VICTORIA",
+         "DIAS DE VISITA": "LU - JU",
+         "Codigo postal": "4720000",
+         "dias": "4"
+      },
+      {
+         "REGION": "IX - REGION DE LA ARAUCANIA",
+         "COMUNA": "VILLARRICA",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "4930000",
+         "dias": "3"
+      },
+      {
+         "REGION": "X - REGION DE LOS LAGOS",
+         "COMUNA": "ANCUD",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "5710000",
+         "dias": "4"
+      },
+      {
+         "REGION": "X - REGION DE LOS LAGOS",
+         "COMUNA": "CALBUCO",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "5570000",
+         "dias": "3"
+      },
+      {
+         "REGION": "X - REGION DE LOS LAGOS",
+         "COMUNA": "CASTRO",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "5700000",
+         "dias": "4"
+      },
+      {
+         "REGION": "X - REGION DE LOS LAGOS",
+         "COMUNA": "FRUTILLAR",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "5620000",
+         "dias": "2"
+      },
+      {
+         "REGION": "X - REGION DE LOS LAGOS",
+         "COMUNA": "LLANQUIHUE",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "5610000",
+         "dias": "2"
+      },
+      {
+         "REGION": "X - REGION DE LOS LAGOS",
+         "COMUNA": "LOS MUERMOS",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "5590000",
+         "dias": "3"
+      },
+      {
+         "REGION": "X - REGION DE LOS LAGOS",
+         "COMUNA": "MAULLIN",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "5580000",
+         "dias": "3"
+      },
+      {
+         "REGION": "X - REGION DE LOS LAGOS",
+         "COMUNA": "OSORNO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "5290000",
+         "dias": "2"
+      },
+      {
+         "REGION": "X - REGION DE LOS LAGOS",
+         "COMUNA": "PUERTO MONTT",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "5480000",
+         "dias": "2"
+      },
+      {
+         "REGION": "X - REGION DE LOS LAGOS",
+         "COMUNA": "PUERTO VARAS",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "5550000",
+         "dias": "2"
+      },
+      {
+         "REGION": "X - REGION DE LOS LAGOS",
+         "COMUNA": "PURRANQUE",
+         "DIAS DE VISITA": "MA - MI - VI",
+         "Codigo postal": "5380000",
+         "dias": "3"
+      },
+      {
+         "REGION": "X - REGION DE LOS LAGOS",
+         "COMUNA": "QUELLON",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "5790000",
+         "dias": "4"
+      },
+      {
+         "REGION": "X - REGION DE LOS LAGOS",
+         "COMUNA": "RIO NEGRO",
+         "DIAS DE VISITA": "MA - MI - VI",
+         "Codigo postal": "5390000",
+         "dias": "3"
+      },
+      {
+         "REGION": "X - REGION DE LOS LAGOS",
+         "COMUNA": "SAN PABLO",
+         "DIAS DE VISITA": "MA - MI - VI",
+         "Codigo postal": "5350000",
+         "dias": "3"
+      },
+      {
+         "REGION": "XI - REGION AISEN DEL GRAL. CARLOS IBAÑEZ DEL CAMPO",
+         "COMUNA": "COYHAIQUE",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "5950000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XI - REGION AISEN DEL GRAL. CARLOS IBAÑEZ DEL CAMPO",
+         "COMUNA": "PUERTO AYSEN",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "6000000",
+         "dias": "3"
+      },
+      {
+         "REGION": "XII - REGION DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+         "COMUNA": "PORVENIR",
+         "DIAS DE VISITA": "LU - MA - MI - JU",
+         "Codigo postal": "6300000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XII - REGION DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+         "COMUNA": "PUERTO NATALES",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "6160000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XII - REGION DE MAGALLANES Y DE LA ANTARTICA CHILENA",
+         "COMUNA": "PUNTA ARENAS",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "6200000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "ALHUE",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "9650000",
+         "dias": "4"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "BUIN",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "9500000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "CALERA DE TANGO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "9560000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "CERRILLOS",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "9200000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "CERRO NAVIA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "9080000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "COLINA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "9340000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "CONCHALI",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "8540000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "CURACAVI",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "9630000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "EL BOSQUE",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "8010000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "EL MONTE",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "9810000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "ESTACION CENTRAL",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "9160000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "HUECHURABA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "8580000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "INDEPENDENCIA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "8380000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "ISLA DE MAIPO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "9790000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "LA CISTERNA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "7970000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "LA FLORIDA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "8240000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "LA GRANJA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "8780000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "LA PINTANA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "8820000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "LA REINA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "7850000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "LAMPA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "9380000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "LAS CONDES",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "7550000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "LO BARNECHEA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "7690000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "LO ESPEJO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "9120000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "LO PRADO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "8980000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "MACUL",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "7810000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "MAIPU",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "9250000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "MARIA PINTO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "9620000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "MELIPILLA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "9580000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "ÑUÑOA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "7750000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "PADRE HURTADO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "9710000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "PAINE",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "9540000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "PEDRO AGUIRRE CERDA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "8460000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "PEÑAFLOR",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "9750000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "PEÑALOLEN",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "7910000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "PIRQUE",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "9480000",
+         "dias": "4"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "PROVIDENCIA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "7500000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "PUDAHUEL",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "9020000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "PUENTE ALTO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "8150000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "QUILICURA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "8700000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "QUINTA NORMAL",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "8500000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "RECOLETA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "8420000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "RENCA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "8640000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "SAN BERNARDO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "8050000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "SAN JOAQUIN",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "8940000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "SAN JOSE DE MAIPO",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "9460000",
+         "dias": "3"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "SAN MIGUEL",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "8900000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "SAN RAMON",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "8860000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "SANTIAGO",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "8320000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "TALAGANTE",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "9670000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "TILTIL",
+         "DIAS DE VISITA": "LU - MI - VI",
+         "Codigo postal": "9420000",
+         "dias": "3"
+      },
+      {
+         "REGION": "XIII - REGION METROPOLITANA",
+         "COMUNA": "VITACURA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI - SA",
+         "Codigo postal": "7630000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XIV - REGION DE LOS RIOS",
+         "COMUNA": "LA UNION",
+         "DIAS DE VISITA": "MA - MI - VI",
+         "Codigo postal": "5220000",
+         "dias": "3"
+      },
+      {
+         "REGION": "XIV - REGION DE LOS RIOS",
+         "COMUNA": "LANCO",
+         "DIAS DE VISITA": "JU",
+         "Codigo postal": "5160000",
+         "dias": "4"
+      },
+      {
+         "REGION": "XIV - REGION DE LOS RIOS",
+         "COMUNA": "LOS LAGOS",
+         "DIAS DE VISITA": "MA - JU",
+         "Codigo postal": "5170000",
+         "dias": "4"
+      },
+      {
+         "REGION": "XIV - REGION DE LOS RIOS",
+         "COMUNA": "MAFIL",
+         "DIAS DE VISITA": "JU",
+         "Codigo postal": "5200000",
+         "dias": "4"
+      },
+      {
+         "REGION": "XIV - REGION DE LOS RIOS",
+         "COMUNA": "MARIQUINA",
+         "DIAS DE VISITA": "JU",
+         "Codigo postal": "5150000",
+         "dias": "4"
+      },
+      {
+         "REGION": "XIV - REGION DE LOS RIOS",
+         "COMUNA": "PAILLACO",
+         "DIAS DE VISITA": "MA",
+         "Codigo postal": "5230000",
+         "dias": "4"
+      },
+      {
+         "REGION": "XIV - REGION DE LOS RIOS",
+         "COMUNA": "PANGUIPULLI",
+         "DIAS DE VISITA": "JU",
+         "Codigo postal": "5210000",
+         "dias": "4"
+      },
+      {
+         "REGION": "XIV - REGION DE LOS RIOS",
+         "COMUNA": "RIO BUENO",
+         "DIAS DE VISITA": "MA - MI - VI",
+         "Codigo postal": "5240000",
+         "dias": "3"
+      },
+      {
+         "REGION": "XIV - REGION DE LOS RIOS",
+         "COMUNA": "VALDIVIA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "5090000",
+         "dias": "2"
+      },
+      {
+         "REGION": "XV - REGION DE ARICA Y PARINACOTA",
+         "COMUNA": "ARICA",
+         "DIAS DE VISITA": "LU - MA - MI - JU - VI",
+         "Codigo postal": "1000000",
+         "dias": "2"
+      }
+   ]
+}

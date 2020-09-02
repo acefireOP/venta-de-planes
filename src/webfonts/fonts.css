@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'cerapro';
+    src: url('cera_pro_light/CeraPro-Light.eot');
+    src: url('cera_pro_light/CeraPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('cera_pro_light/CeraPro-Light.woff') format('woff'),
+        url('cera_pro_light/CeraPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'cerapro';
+    src: url('cera_pro_regular/CeraPro-Regular.eot');
+    src: url('cera_pro_regular/CeraPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('cera_pro_regular/CeraPro-Regular.woff') format('woff'),
+        url('cera_pro_regular/CeraPro-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'cerapro';
+    src: url('cera_pro_medium/CeraPro-Medium.eot');
+    src: url('cera_pro_medium/CeraPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('cera_pro_medium/CeraPro-Medium.woff') format('woff'),
+        url('cera_pro_medium/CeraPro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'cerapro';
+    src: url('cera_pro_bold/CeraPro-Bold.eot');
+    src: url('cera_pro_bold/CeraPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('cera_pro_bold/CeraPro-Bold.woff') format('woff'),
+        url('cera_pro_bold/CeraPro-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'cerapro';
+    src: url('cera_pro_black/CeraPro-Black.eot');
+    src: url('cera_pro_black/CeraPro-Black.eot?#iefix') format('embedded-opentype'),
+        url('cera_pro_black/CeraPro-Black.woff') format('woff'),
+        url('cera_pro_black/CeraPro-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+

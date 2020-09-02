@@ -1,0 +1,25 @@
+RewriteEngine On
+RewriteBase /seguro/venta-de-planes/
+RewriteRule ^index\.html$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.html [L]
+
+AddCharset utf-8 .css .js .json .html
+AddType image/x-icon ico
+AddType application/json json
+AddType application/pdf pdf
+AddType image/svg+xml svg svgz
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+
+  <IfModule mod_headers.c>
+    <FilesMatch "\.(js|html|gif|png|svg|json|css)$">
+      ExpiresDefault M604800
+    </FilesMatch>
+    <FilesMatch "\.(flv|ico|pdf|avi|mov|ppt|doc|mp3|wmv|wav)$">
+      ExpiresDefault A29030400
+    </FilesMatch>
+  </IfModule>
+</IfModule>
