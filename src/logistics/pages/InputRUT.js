@@ -141,42 +141,42 @@ const InputRut = (props) => {
         })
     };
 
-  const getInfo = () => {
-    const valid = ref.current && ref.current.blurValidation();
-    // setValid(valid);
-    props.setLoadingState(true);
-    if (valid) {
-      // executeRecaptcha("query").then((token) => {
-      //     axios.post(`/recaptcha/api/siteverify?secret=${process.env.NODE_ENV !== 'development' ? prodReCaptchaKeyServer : reCaptchaKeyServer}&response=${token}`).then((data) => {
-      //         console.log(data);
-      //         const {data: {success, score}} = data;
-      //         if (success && score > 0.5) {
-      getOrderNum().then((num) => {
-        setOrder(num !== 0);
-        console.log('=======')
-        setValid(num !== 0);
-        if (num !== 0) {
-          history.push({
-            pathname: `/logistics/orderlist/${encodeURI(rut)}`,
-          });
-        } else {
-          ref.current && ref.current.setInvalidForm(2);
-          ref.current && ref.current.setErrorMessage("No hemos encontrado una compra asociada a este RUT")
+    const getInfo = () => {
+        const valid = ref.current && ref.current.blurValidation();
+        // setValid(valid);
+        props.setLoadingState(true);
+        if (valid) {
+            executeRecaptcha("query").then((token) => {
+                axios.post(`/recaptcha/api/siteverify?secret=${process.env.NODE_ENV !== 'development' ? prodReCaptchaKeyServer : reCaptchaKeyServer}&response=${token}`).then((data) => {
+                    console.log(data);
+                    const {data: {success, score}} = data;
+                    if (success && score > 0.5) {
+                        getOrderNum().then((num) => {
+                            setOrder(num !== 0);
+                            console.log('=======')
+                            setValid(num !== 0);
+                            if (num !== 0) {
+                                history.push({
+                                    pathname: `/logistics/orderlist/${encodeURI(rut)}`,
+                                });
+                            } else {
+                                ref.current && ref.current.setInvalidForm(2);
+                                ref.current && ref.current.setErrorMessage("No hemos encontrado una compra asociada a este RUT")
+                            }
+                        }).catch((e) => {
+                            setOrder(false)
+                            console.log('++++++++')
+                        }).finally(() => {
+                            props.setLoadingState(false);
+                        });
+                    } else {
+                        props.setLoadingState(false);
+                        console.log('google say you are junk robot')
+                    }
+                });
+            });
         }
-      }).catch((e) => {
-        setOrder(false)
-        console.log('++++++++')
-      }).finally(() => {
-        props.setLoadingState(false);
-      });
-      //     } else {
-      //         props.setLoadingState(false);
-      //         console.log('google say you are junk robot')
-      //     }
-      // });
-      // });
-    }
-  };
+    };
 
     const Tips = ({hasOrder}) => {
         return (
