@@ -2,9 +2,10 @@ import React, { useContext } from "react";
 import styled from "styled-components";
 import { FormContext } from "../context/FormContext";
 
-import Plan15gb from "../images/planes/plan15gb.svg";
-import Plan30gb from "../images/planes/plan30gb.svg";
-import Plan40gb from "../images/planes/plan40gb.svg";
+import Plan10gb from "../images/planes/plan15gb.svg";
+import Plan20gb from "../images/planes/plan15gb.svg";
+import Plan40gb from "../images/planes/plan30gb.svg";
+import Plan60gb from "../images/planes/plan40gb.svg";
 
 const PlanRequested = styled.div`
   margin-right: 60px;
@@ -35,14 +36,17 @@ const Step3Plan = () => {
     <PlanRequested>
       <h2>Plan Solicitado</h2>
       <div className="planImage">
-        {formData.selectedPlan === "15gb" && (
-          <img src={Plan15gb} alt="plan 15 gb" />
+        {formData.selectedPlan === "10gb" && (
+          <img src={Plan10gb} alt="plan 10 gb" />
         )}
-        {formData.selectedPlan === "30gb" && (
-          <img src={Plan30gb} alt="plan 30 gb" />
+        {formData.selectedPlan === "20gb" && (
+          <img src={Plan20gb} alt="plan 20 gb" />
         )}
         {formData.selectedPlan === "40gb" && (
           <img src={Plan40gb} alt="plan 40 gb" />
+        )}
+        {formData.selectedPlan === "60gb" && (
+          <img src={Plan60gb} alt="plan 60 gb" />
         )}
       </div>
     </PlanRequested>

@@ -146,11 +146,11 @@ const InputRut = (props) => {
         // setValid(valid);
         props.setLoadingState(true);
         if (valid) {
-            executeRecaptcha("query").then((token) => {
-                axios.post(`/recaptcha/api/siteverify?secret=${process.env.NODE_ENV !== 'development' ? prodReCaptchaKeyServer : reCaptchaKeyServer}&response=${token}`).then((data) => {
-                    console.log(data);
-                    const {data: {success, score}} = data;
-                    if (success && score > 0.5) {
+           //executeRecaptcha("query").then((token) => {
+                //axios.post(`/recaptcha/api/siteverify?secret=${process.env.NODE_ENV !== 'development' ? prodReCaptchaKeyServer : reCaptchaKeyServer}&response=${token}`).then((data) => {
+                    //console.log(data);
+                    //const {data: {success, score}} = data;
+                    //if (success && score > 0.5) {
                         getOrderNum().then((num) => {
                             setOrder(num !== 0);
                             console.log('=======')
@@ -169,12 +169,12 @@ const InputRut = (props) => {
                         }).finally(() => {
                             props.setLoadingState(false);
                         });
-                    } else {
-                        props.setLoadingState(false);
-                        console.log('google say you are junk robot')
-                    }
-                });
-            });
+                    //} else {
+                    //    props.setLoadingState(false);
+                    //    console.log('google say you are junk robot')
+                    //}
+                //});
+            //});
         }
     };
 

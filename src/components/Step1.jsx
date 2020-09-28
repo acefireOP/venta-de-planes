@@ -115,9 +115,10 @@ const Step1 = ({ location }) => {
   }, []);
 
   if (
-    (formData.selectedPlan !== undefined && formData.selectedPlan === "15gb") ||
-    (formData.selectedPlan !== undefined && formData.selectedPlan === "30gb") ||
-    (formData.selectedPlan !== undefined && formData.selectedPlan === "40gb")
+    (formData.selectedPlan !== undefined && formData.selectedPlan === "10gb") ||
+    (formData.selectedPlan !== undefined && formData.selectedPlan === "20gb") ||
+    (formData.selectedPlan !== undefined && formData.selectedPlan === "40gb") ||
+    (formData.selectedPlan !== undefined && formData.selectedPlan === "60gb")
   ) {
     return (
       <>
