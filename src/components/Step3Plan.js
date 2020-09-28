@@ -2,10 +2,10 @@ import React, { useContext } from "react";
 import styled from "styled-components";
 import { FormContext } from "../context/FormContext";
 
-import Plan10gb from "../images/planes/plan15gb.svg";
-import Plan20gb from "../images/planes/plan15gb.svg";
-import Plan40gb from "../images/planes/plan30gb.svg";
-import Plan60gb from "../images/planes/plan40gb.svg";
+import Plan10gb from "../images/planes/plan-10-gigas.svg";
+import Plan20gb from "../images/planes/plan-20-gigas.svg";
+import Plan40gb from "../images/planes/plan-40-gigas.svg";
+import Plan60gb from "../images/planes/plan-60-gigas.svg";
 
 const PlanRequested = styled.div`
   margin-right: 60px;
