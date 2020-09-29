@@ -123,7 +123,8 @@ const InputRut = (props) => {
                             } else {
                                 const {fecha, hora} = temp[0];
                                 const [day, month, year] = fecha.split('/');
-                                const orderDate = new Date(`${year}-${month}-${day} ${hora}`).getTime();
+                                console.log(new Date(`${year}/${month}/${day} ${hora}`).getTime())
+                                const orderDate = new Date(`${year}/${month}/${day} ${hora}`).getTime();
                                 const now = new Date().getTime();
                                 if (now - orderDate < 15 * 24 * 60 * 60 * 1000) {
                                     orderList.push(order);
@@ -146,11 +147,11 @@ const InputRut = (props) => {
         // setValid(valid);
         props.setLoadingState(true);
         if (valid) {
-           //executeRecaptcha("query").then((token) => {
-                //axios.post(`/recaptcha/api/siteverify?secret=${process.env.NODE_ENV !== 'development' ? prodReCaptchaKeyServer : reCaptchaKeyServer}&response=${token}`).then((data) => {
-                    //console.log(data);
-                    //const {data: {success, score}} = data;
-                    //if (success && score > 0.5) {
+            // executeRecaptcha("query").then((token) => {
+            //     axios.post(`/recaptcha/api/siteverify?secret=${process.env.NODE_ENV !== 'development' ? prodReCaptchaKeyServer : reCaptchaKeyServer}&response=${token}`).then((data) => {
+            //         console.log(data);
+            //         const {data: {success, score}} = data;
+            //         if (success && score > 0.5) {
                         getOrderNum().then((num) => {
                             setOrder(num !== 0);
                             console.log('=======')
@@ -165,16 +166,18 @@ const InputRut = (props) => {
                             }
                         }).catch((e) => {
                             setOrder(false)
-                            console.log('++++++++')
+                            console.log('++++++++', e)
                         }).finally(() => {
                             props.setLoadingState(false);
                         });
-                    //} else {
-                    //    props.setLoadingState(false);
-                    //    console.log('google say you are junk robot')
-                    //}
-                //});
-            //});
+                    // } else {
+                    //     props.setLoadingState(false);
+                    //     console.log('google say you are junk robot')
+                    // }
+                // });
+            // }).catch((e)=>{
+            //     console.log(e)
+            // });
         }
     };
 

@@ -7,12 +7,14 @@ import * as serviceWorker from './serviceWorker';
 import {GoogleReCaptchaProvider} from "react-google-recaptcha-v3";
 import {reCaptchaKey, prodReCaptchaKey} from "./logistics/utils/const";
 
-ReactDOM.render(<GoogleReCaptchaProvider
+/*ReactDOM.render(<GoogleReCaptchaProvider
     reCaptchaKey={process.env.NODE_ENV !== 'development'?prodReCaptchaKey:reCaptchaKey}
     language="zh-CN"
 >
         <App/>
-</GoogleReCaptchaProvider>, document.getElementById('root'));
+</GoogleReCaptchaProvider>, document.getElementById('root'));*/
+
+ReactDOM.render(<App/>, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
