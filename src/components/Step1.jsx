@@ -72,11 +72,20 @@ const MotionDiv = styled(motion.div)`
   width: 100%;
 `;
 const VoidContainer = styled.div`
+  width: 90%;
+  max-width: 600px;
   height: 200px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: #ffffff;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.45);
+  border-radius: 8px;
+  h1{
+    color: rgb(45, 20, 65);
+    font-weight: 500;
+  }
 `;
 
 const duration = 0.3;
@@ -229,7 +238,14 @@ const Step1 = ({ location }) => {
   } else {
     return (
       <>
-        {window.innerWidth >= 768 ? <RequestPlan /> : <RequestPlanMob />}
+        {
+          (formData.selectedPlan === "10gb" ||
+          formData.selectedPlan === "20gb" ||
+          formData.selectedPlan === "40gb" ||
+          formData.selectedPlan === "60gb") ?
+          (window.innerWidth >= 768 ? <RequestPlan /> : <RequestPlanMob />) 
+          : undefined
+        }
         <VoidContainer>
           <h1>No hay plan seleccionado</h1>
         </VoidContainer>

@@ -260,7 +260,7 @@ const CompeletedOrder = (props) => {
 
     const update = () => {
         props.setLoadingState(true);
-        let ventaPlanesRef = firebase.firestore().collection("venta-planes-test");
+        let ventaPlanesRef = firebase.firestore().collection("venta-planes");
         ventaPlanesRef.where("televentaID", "==", order.televentaID || "123")
             .get()
             .then(function (querySnapshot) {

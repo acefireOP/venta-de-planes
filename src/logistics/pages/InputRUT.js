@@ -106,7 +106,7 @@ const InputRut = (props) => {
     };
     const getOrderNum = () => {
         return new Promise((resolve, reject) => {
-            firebase.firestore().collection("venta-planes-test").where("rut", "==", rut)
+            firebase.firestore().collection("venta-planes").where("rut", "==", rut)
                 .get()
                 .then(function (querySnapshot) {
                     const orderList = [];

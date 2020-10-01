@@ -205,7 +205,7 @@ const OrderList = (props) => {
             });
             return false;
         }
-        let ventaPlanesRef = firebase.firestore().collection("venta-planes-test");
+        let ventaPlanesRef = firebase.firestore().collection("venta-planes");
 
         Promise.all([getProcessingOrder(ventaPlanesRef)]).then(([a1]) => {
             setOrderList([...a1])
